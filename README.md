@@ -1,6 +1,5 @@
 # Market-Basket-Analysis-Association-Rule-Mining
-This repository demonstrates Association Rule Mining using a simplified Market Basket Analysis dataset.
-Market Basket Analysis – Association Rule Mining
+
 Overview
 
 This repository demonstrates Association Rule Mining using a simplified Market Basket Analysis dataset.
