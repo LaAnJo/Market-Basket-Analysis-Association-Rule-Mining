@@ -1,6 +1,6 @@
 # Market-Basket-Analysis-Association-Rule-Mining
 
-Overview
+# Overview
 
 This repository demonstrates Association Rule Mining using a simplified Market Basket Analysis dataset.
 The goal is to analyze customer purchasing behavior and evaluate relationships between items using:
@@ -31,7 +31,7 @@ Beer & Eggs	5,500
 Crisps, Beer & Eggs	5,000
 Association Rule Metrics
 
-The following standard formulas are used to evaluate association rules:
+# The following standard formulas are used to evaluate association rules:
 
 Support
 Support = (Transactions containing all items in the rule) / (Total transactions)
@@ -126,7 +126,7 @@ Crisps + Beer → Eggs shows the strongest association (highest lift).
 
 Some popular items (e.g., crisps → beer) do not necessarily imply strong association.
 
-Use Cases
+# Use Cases
 
 Retail promotion planning
 
